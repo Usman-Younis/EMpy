@@ -38,7 +38,7 @@ class SVFDModeSolver(ModeSolver):
         I.e., just use micron for everything.
     x : 1D array of floats
         Array of x-values
-    y : 1D array of floats
+    y : 1D array of floats 3
         Array of y-values
     epsfunc : function
         This is a function that provides the relative permittivity matrix
